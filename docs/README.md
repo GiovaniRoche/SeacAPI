@@ -1,9 +1,3 @@
 # Documentação
 * [Clientes](clientes.md)
-* [Produtos](#crud)
-    * [Grupo](#gerando-um-módulo)
-    * [SubGrupos](#gerando-uma-crud)
-    * [Controle](#gerando-uma-crud)
-        * [SoftDeletes](#softdeletes)
-        * [Timestamps](#timestamps)
-        * [Userstamps](#userstamps)
+* [Produtos](produtos.md)
