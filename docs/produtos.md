@@ -3,6 +3,8 @@
 * [Grupos](#gruposs)
 * [SubGrupos](#subgrupos)
 * [Controles](#controles)
+* [Marcas](#marcas)
+* [Cores](#cores)
 * [Produtos](#produtos)
 
 
@@ -14,6 +16,11 @@
 
 
 ## Controles
+
+## Marcas
+
+
+## Cores
 
 
 ## Produtos
