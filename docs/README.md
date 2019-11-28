@@ -1,4 +1,4 @@
-# O que é a API da EXATA Sistemas?
+# O que é a API da EXATA Sistemas
 API  é uma sigla para Application Programming Interface, ou Interface de Programação de Aplicativos. Essa interface especifica de que maneira devem interagir os diversos componentes de um software.
 
 No caso da EXATA Sistemas, a API pode ser utilizada para integrar o SEAC com serviços externos ou para ampliar o potencial das funcionalidades atuais com desenvolvedores externos.
